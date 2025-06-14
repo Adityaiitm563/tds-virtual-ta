@@ -12,7 +12,7 @@ A virtual Teaching Assistant for IITM's Tools in Data Science course. Answers st
 
 ### 1. Clone the repository
 ```bash
-git clone [<your-repo-url>](https://github.com/Adityaiitm563/tds-virtual-ta/)
+git clone https://github.com/Adityaiitm563/tds-virtual-ta/
 cd tds-project1
 ```
 
