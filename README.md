@@ -12,7 +12,7 @@ A virtual Teaching Assistant for IITM's Tools in Data Science course. Answers st
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/Adityaiitm563/tds-virtual-ta/)
 cd tds-project1
 ```
 
@@ -87,5 +87,5 @@ MIT License. See [LICENSE](LICENSE).
 
 ---
 **Note:**
-- `knowledge_base.db` is included for instant API testing. You can use it directly, or rebuild it from scratch using the provided scripts and instructions.
+- `knowledge_base.db` is not included for instant API testing because of github size restrictions. You can use it directly, or rebuild it from scratch using the provided scripts and instructions.
 - Do NOT commit your real `.env` file or large raw data files. See `.gitignore` for details.
